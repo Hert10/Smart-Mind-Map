@@ -24,6 +24,4 @@ Le projet suit une approche hybride :
 3.  **Génération :** Le LLM local structure les données en format JSON hiérarchique.
 4.  **Rendu :** L'application Flutter dessine dynamiquement l'arbre de connaissances.
 
-## 👤 Auteurs
-* **[Ton Nom]**
-* **[Nom de ton binôme]**
+
