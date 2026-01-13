@@ -1,0 +1,195 @@
+{
+    "root_label": "Synthèse : Cours_Python_Complet.pdf",
+    "branches": [
+        {
+            "name": "Introduction",
+            "children": [
+                {
+                    "label": "Langage Python",
+                    "full_text": "Python est un langage de programmation interprété, multiplateforme et orienté objet.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Applicaiton du Langage",
+                    "full_text": "Python trouve des applications dans divers domaines tels que le développement web, l'intelligence artificielle, la data science, l'automatisation et la cybersécurité.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Structures de Données Python",
+                    "full_text": "Le chapitre 1 de Python couvre les types de données fondamentaux : entiers, flottants, chaînes de caractères et booléens.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Structures de Données",
+                    "full_text": "Python offre une variété de structures de données robustes, y compris les listes (mutables et ordonnées), les tuples (immuables), les dictionnaires (clé-valeur) et les ensembles ou sets (éléments uniques). ",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 2 :",
+            "children": [
+                {
+                    "label": "Variables et Types",
+                    "full_text": "Python variables are dynamically typed, meaning their type is determined at runtime.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Opérations Python",
+                    "full_text": "Python supports arithmetic, logical, and comparison operations.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Structures de Données",
+                    "full_text": "Python offers multiple assignment and unpacking of variables, allowing for ordered and mutable data structures.",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 3 :",
+            "children": [
+                {
+                    "label": "Structures de contrôle",
+                    "full_text": "**Structures de contrôle : Itération sur une séquence**",
+                    "status": "warning",
+                    "correction": "La phrase 'Structures de contrôle' est correcte. Cependant, il serait préférable d'utiliser un terme plus précis et concis pour la description des structures de contrôle. 'Itération sur une séquence' offre une précision plus adaptée au contexte."
+                },
+                {
+                    "label": "Conditionnel",
+                    "full_text": "**Structures conditionnelles if, elif, else**",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Bloc de code réutilisable",
+                    "full_text": "**Structures Conditionnelles et blocs de codes réutilisables : if, elif, else**",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Boucle for, while",
+                    "full_text": "**Boucles for and while: Itération et conditionnement**",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 4 :",
+            "children": [
+                {
+                    "label": "Fonctions Python",
+                    "full_text": "Les fonctions Python sont définies avec la commande `def`. Elles permettent de structurer le code, de réduire la duplication et d’améliorer la lisibilité.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Structures de données",
+                    "full_text": "Python possède des structures de données intégrées telles que les tuples et les lists qui permettent de structurer le code, de réduire la duplication et d’améliorer la lisibilité.",
+                    "status": "warning",
+                    "correction": "Les structures de données sont des éléments clés en Python. Les tuples et les lists, par exemple, facilitent la structuration du code et réduisent la répétition de codes."
+                },
+                {
+                    "label": "Arguments",
+                    "full_text": "Python supporte des arguments positionnels, nommés et des fonctions lambda. ",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 5 :",
+            "children": [
+                {
+                    "label": "Object Modeling",
+                    "full_text": "Programmation orientée objet est un modèle permettant de créer des objets avec des attributs et des méthodes.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Classes and Objects",
+                    "full_text": "La programmation orientée objet repose sur les classes et les objets.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Classes Attributes & Methods",
+                    "full_text": "Une classe contient des attributs et des méthodes.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Modularity and Extensibility",
+                    "full_text": "Les concepts d’héritage, d’encapsulation et de polymorphisme permettent de créer des systèmes modulaires et extensibles.",
+                    "status": "warning",
+                    "correction": "La programmation orientée objet permet de créer des systèmes modulaires et extensibles grâce aux concepts d'héritage, d'encapsulation et de polymorphisme."
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 6 : Modules et packages",
+            "children": [
+                {
+                    "label": "Module Python",
+                    "full_text": "Un module est un fichier Python contenant du code réutilisable.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Packages Python",
+                    "full_text": "Les packages sont des ensembles de modules organisés dans des dossiers.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Importation",
+                    "full_text": "L'instruction import permet d’utiliser des modules standards ou externes.",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 7 :",
+            "children": [
+                {
+                    "label": "Gestion des Erreurs",
+                    "full_text": "Les exceptions permettent de gérer les erreurs lors de l'exécution d'un programme.",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        },
+        {
+            "name": "Chapitre 9 :",
+            "children": [
+                {
+                    "label": "File Handling",
+                    "full_text": "Python's file handling features allow reading and writing text or binary data using the 'open' function.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Popularity",
+                    "full_text": "With its rich conceptual framework and extensive ecosystem, Python is now one of the most popular programming languages worldwide.",
+                    "status": "correct",
+                    "correction": null
+                },
+                {
+                    "label": "Data Structure",
+                    "full_text": "Python provides a robust data structure that enables efficient manipulation and modification of data.",
+                    "status": "correct",
+                    "correction": null
+                }
+            ]
+        }
+    ]
+}
